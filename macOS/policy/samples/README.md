@@ -12,3 +12,4 @@
 | [ deny_debug_on_android ]( deny_debug_on_android.md) | Apple Portable Device | False
 | [ deny_removable_media_except_kingston ]( deny_removable_media_except_kingston.md) | Apple Removable Media | False
 | [ deny_mobile_devices ]( deny_mobile_devices.md) | Apple Generic Device | False
+| [ deny_all USB_devices ]( deny_mobile_devices.md) | Apple Removable Device | False
